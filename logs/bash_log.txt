@@ -1,40 +1,10 @@
-/bin/zsh
-ls
-ls -al
-ls -al
-vim
-vim
-vim
-help 
-bash hello_world_test.sh 
-help time
-time -p
-time 
-time %P
-time nvim  '%P'
-man time
-gawk
-ps
-time
-ps 
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-ps -o %cpu,%mem,cmd
-time test
-time nvim
+ffsf
+sgsg
+esg
+dhsrt
+fh
+hsrshrg
+eg
+argr
+gve
+gwa
